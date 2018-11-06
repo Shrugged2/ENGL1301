@@ -87,4 +87,4 @@ if Gender == "M":
 else:
     print (" Her arguments", end = ' ')
 
-print ("served to effectively convey the message intended.", "Nuggets")
+print ("served to effectively convey the message intended.", "Oh bother")
